@@ -1,0 +1,35 @@
+* {outline: 1px solid black}
+
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.hero, .footer {
+    background-color: #1F2937;
+}
+
+.header {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
+.links, .text1 {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.signup, .banner {
+    background-color: #3882F6;
+}
+
+.title {
+    font-size: 38px;
+    font-weight: 800;
+    color: #1F2937;
+}
