@@ -8,7 +8,7 @@
     background-color: #1F2937;
 }
 
-.header {
+.headertext {
     font-size: 48px;
     font-weight: 800;
     color: #F9FAF8;
@@ -29,7 +29,55 @@
 }
 
 .title {
-    font-size: 38px;
+    font-size: 36px;
     font-weight: 800;
     color: #1F2937;
+}
+
+.testimonial {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+}
+
+.links {
+    display: inline-flex;
+}
+
+.header {
+    display: flex;
+}
+
+
+.logo {
+    align-items: center;
+}
+
+.awesome {
+    display: flex;
+}
+
+.left {
+    align-items: center;
+}
+
+.images {
+    display: flex;
 }
